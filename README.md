@@ -1,6 +1,6 @@
 # 👶🌸 BabyCare - Caring for You and Your Baby Every Step of the Way
 
-![BabyCare Banner](baby1.png)
+![BabyCare Banner](baby5.png)
 
 ## 💖 Overview
 
@@ -41,7 +41,7 @@ From week-by-week pregnancy guidance to postpartum care, newborn care, and 24/7 
 
 | Home | Pregnancy Care |
 |------|----------------|
-| ![Home](baby1.png) | ![Pregnancy](baby4.png) |
+| ![Home](baby5.png) | ![Pregnancy](baby4.png) |
 
 | Complete Care Journey | AI Assistant |
 |-----------------------|--------------|
