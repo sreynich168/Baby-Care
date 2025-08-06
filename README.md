@@ -1,6 +1,6 @@
 # 👶🌸 BabyCare - Caring for You and Your Baby Every Step of the Way
 
-![BabyCare Banner](screenshots/baby1.png)
+![BabyCare Banner](baby1.png)
 
 ## 💖 Overview
 
@@ -21,7 +21,7 @@ From week-by-week pregnancy guidance to postpartum care, newborn care, and 24/7 
 - Common symptoms and useful weekly tips.
 - Downloadable personalized pregnancy guide.
 
-![Pregnancy Care](screenshots/baby4.png)
+![Pregnancy Care](baby4.png)
 
 ### 🤱 Postpartum Care
 - Recovery guidance, breastfeeding tips, emotional wellness support.
@@ -33,7 +33,7 @@ From week-by-week pregnancy guidance to postpartum care, newborn care, and 24/7 
 - 24/7 "AI Mommy Helper" to instantly answer pregnancy and baby care questions.
 - Supports multiple languages and categories like pregnancy, newborn care, feeding, sleep, development, and health concerns.
 
-![AI Assistant](screenshots/baby3.png)
+![AI Assistant](baby3.png)
 
 ---
 
@@ -41,11 +41,11 @@ From week-by-week pregnancy guidance to postpartum care, newborn care, and 24/7 
 
 | Home | Pregnancy Care |
 |------|----------------|
-| ![Home](screenshots/baby1.png) | ![Pregnancy](screenshots/baby4.png) |
+| ![Home](baby1.png) | ![Pregnancy](baby4.png) |
 
 | Complete Care Journey | AI Assistant |
 |-----------------------|--------------|
-| ![Care Journey](screenshots/baby2.png) | ![AI Assistant](screenshots/baby3.png) |
+| ![Care Journey](baby2.png) | ![AI Assistant](baby3.png) |
 
 ---
 
